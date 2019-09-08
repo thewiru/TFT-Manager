@@ -1,2 +1,4 @@
 # TFT-Manager
-Teamfight Tactitcs Manage. Do NOT change the .EXE file folder
+Teamfight Tactitcs Manager. 
+Do NOT change the .EXE file folder.
+Creating a shortcut or renaming is OK.
